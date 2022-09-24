@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Planificador-de-tareas-SDGC/static/css/main.bcb5bf79.css",
+    "main.js": "/Planificador-de-tareas-SDGC/static/js/main.cb6a3633.js",
+    "index.html": "/Planificador-de-tareas-SDGC/index.html",
+    "main.bcb5bf79.css.map": "/Planificador-de-tareas-SDGC/static/css/main.bcb5bf79.css.map",
+    "main.cb6a3633.js.map": "/Planificador-de-tareas-SDGC/static/js/main.cb6a3633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcb5bf79.css",
+    "static/js/main.cb6a3633.js"
+  ]
+}
